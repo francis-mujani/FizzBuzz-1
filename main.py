@@ -8,6 +8,6 @@ for x in xrange(1, 200):
     elif fizz:
         print "Fizz"
     elif buzz:
-        print "Buzz"
+        print "World"
     else:
         print x
